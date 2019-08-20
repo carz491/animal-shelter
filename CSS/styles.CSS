@@ -13,6 +13,16 @@ body {
 
 img {
   width: 150px;
-  padding: 5 px;
   border: 1px solid #ddd;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  border-color: white;
+}
+
+.row {
+
 }
